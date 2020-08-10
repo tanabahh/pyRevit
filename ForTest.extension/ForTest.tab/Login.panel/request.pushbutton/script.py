@@ -1,4 +1,4 @@
-"""It's a test for commemts"""
+#! python3
 
 import requests
 r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
